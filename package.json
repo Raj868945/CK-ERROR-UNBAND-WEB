@@ -1,0 +1,12 @@
+{
+  "name": "ck-error-unban-web",
+  "version": "1.0.0",
+  "description": "CK-ERROR Varcil Style UNBAN Web Tool",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
